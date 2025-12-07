@@ -4,7 +4,7 @@ title:               'My digital garden'
 url:                 'https://cindywincek.github.io/'
 
 # Change baseurl to the directory your site lives at so internal link generator creates proper relative paths.
-baseurl:             'digital-garden-ghpages-template'
+baseurl:             'its-me-cindy-garden-demo'
 
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
