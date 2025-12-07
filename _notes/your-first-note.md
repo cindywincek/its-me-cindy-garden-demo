@@ -3,6 +3,11 @@ title: Your first seed
 ---
 
 ### Welcome!
+This is my corner of the internet...
+
+This is my corner of the internet—a space to think out loud, follow my curiosity, and put my reflections somewhere other than my head. It is a public notebook dedicated to achieving **Clarity** in my life and work.
+
+I write about the things I’m learning, the systems I’m building, and the questions I can’t shake. Nothing here is meant to be final; it’s just me showing my work as I go.
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
 
