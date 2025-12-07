@@ -14,7 +14,7 @@ This is my corner of the internet—a space to think out loud, follow my curiosi
 I write about the things I’m learning, the systems I’m building, and the questions I can’t shake. Nothing here is meant to be final; it’s just me showing my work as I go.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Learn more about me! <span style="font-weight: bold"> [[about]] </span> to get started on your exploration.
+  Learn more about me! <span style="font-weight: bold"> [about] </span> to get started on your exploration.
 </p>
 
 
